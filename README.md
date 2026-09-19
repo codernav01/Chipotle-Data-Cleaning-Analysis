@@ -1,3 +1,5 @@
+> **Legacy learning project.** Kept for learning history; this repository is not part of my current featured Data Analyst portfolio. See my current work on my [GitHub profile](https://github.com/codernav01).
+
 # Chipotle Data Cleaning & Analysis Project
 
 ## Overview  
